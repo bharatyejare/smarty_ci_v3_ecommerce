@@ -1,0 +1,1 @@
+# smarty_ci_v3_ecommerce
